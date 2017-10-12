@@ -1,5 +1,5 @@
 
-Instalação Git
+# Comandos Git básicos no Linux Ubuntu 16.04
 
 $ sudo apt-get install git git-extras
 
